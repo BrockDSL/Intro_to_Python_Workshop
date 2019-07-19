@@ -1,3 +1,8 @@
+![DSL Logo](dsl_logo.png)
+
+[@brock_dsl](https://twitter.com/brock_dsl)
+
+
 # Introduction to Python
 
 ## Agenda ##
