@@ -13,7 +13,7 @@ We'll do all of the work for today's tutorial using Juypter Notebooks.
 
 ### If you have a Brock Email
 
-[Launch](https://brocku.syzygy.ca/)
+[Launch](https://brocku.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/BrockDSL/Intro_to_Python_Workshop)
 
 ### If you're a guest
 
