@@ -3,6 +3,9 @@
 
 # Introduction to Python
 
+Connect to the Workshop `http://bit.ly/dslpython`
+
+
 
 ## Variables - The Basics
 
