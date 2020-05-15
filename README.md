@@ -5,25 +5,15 @@
 
 # Introduction to Python
 
-We'll do all of the work for today's tutorial using Juypter Notebooks. 
+In this workshop we'll be learning about the basics of the Python programming language. If we have time we'll look at a simple **Text Analysis** activity. Feel free to move through the tutorial faster if you like.
 
 
 ## Getting Started
 
+There are many different way use Python. Today we'll be running a Python Notebook that allows us to do all of our coding in a browser window.
 
-### If you have a Brock Email
+Simply click on the icon to load up the tutorial:
 
-[Launch](https://brocku.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/BrockDSL/Intro_to_Python_Workshop)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrockDSL/Intro_to_Python_Workshop/master)
 
-### If you're a guest
-
-1. Download the [material](https://github.com/BrockDSL/Intro_to_Python_Workshop) Look for the **Clone or download** button
-1. Unzip it in your **Downloads** directory 
-1. Run Anaconda and Launch Jupyter Notebook
-1. Connect to the [Etherpad](http://139.57.126.30:32780/p/intro_to_python) 
-
-
-## Exercises
-
-1. The Basics of Python
-1. Text Analysis with Scrabble
+(It might take a moment or two to start up)

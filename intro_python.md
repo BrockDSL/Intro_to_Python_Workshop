@@ -3,9 +3,6 @@
 
 # Introduction to Python
 
-***
-
-Material for today: `http://bit.ly/DSLPython`
 
 ## Variables - The Basics
 
