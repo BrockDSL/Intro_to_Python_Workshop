@@ -17,3 +17,15 @@ Simply click on the icon to load up the tutorial:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrockDSL/Intro_to_Python_Workshop/master)
 
 (It might take a moment or two to start up)
+
+
+
+If you have a Google Account you can also use the new Google Collab Environment:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Intro_to_Python_Workshop/blob/master/01_intro.ipynb) - Introduction Excercise
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Intro_to_Python_Workshop/blob/master/.ipynb_checkpoints/02_text_analysis-checkpoint.ipynb) - Text Analysis Exercise
+
+
+
+
