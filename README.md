@@ -20,10 +20,5 @@ You will need a Google Account to participate in this workshop. Click on the lin
 
 
 
-If you finish the initial exercise and wish to do some more Python you can try the following.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Intro_to_Python_Workshop/blob/master/.ipynb_checkpoints/02_text_analysis-checkpoint.ipynb) -  Extra Credit: Text Analysis Exercise
-
-
 
 
