@@ -3,7 +3,7 @@
 [@brock_dsl](https://twitter.com/brock_dsl)
 
 
-# Introduction to Python
+# Introduction to Python 
 
 In this workshop we'll be learning about the basics of the Python programming language. If we have time we'll look at a simple Text Analysis activity. Feel free to move through the tutorial faster if you like.
 
