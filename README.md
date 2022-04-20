@@ -1,4 +1,4 @@
-![DSL Logo](dsl_logo.png)
+![Workshop Splash](Intro-Python.jpg)
 
 [@brock_dsl](https://twitter.com/brock_dsl)
 
