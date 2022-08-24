@@ -1,0 +1,5 @@
+Curious about the programming language Python? This session will give you all the basics to start you on the path to learning about this very versatile and popular language. We'll start at the very beginning and work through the basics. The end goal will be to use Python to perform basic data science research.
+
+This workshop is open to everyone, beginners are welcome.
+
+This workshop will be recorded and a copy of the recording will be provided to attendees. The recording of this workshop may also be shared publicly.
